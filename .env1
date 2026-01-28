@@ -1,0 +1,6 @@
+VITE_CNPJ=06.270.840/0001-50
+VITE_PIX_CHAVE=06.270.840/0001-50
+VITE_LOGO_URL=https://seulink.com.br/logo-ldt-net.png
+VITE_SUPABASE_URL=https://sjfxbaxgrvbjyglldstc.supabase.co
+VITE_SUPABASE_KEY=sb_publishable_eZYYQAPp_yj_ufkeWOXQoA_56GBqYAa
+VITE_GH_PAGES_BASE=/React/

@@ -71,9 +71,8 @@ Error generating stack: `+o.message+`
               Software PDV desenvolvido por:<br>
               <strong>LDT NET TELECOM</strong><br>
               Soluções em TI e Automação<br>
-              CNPJ: 12.345.678/0001-90<br>
-              (84) 99999-9999<br>
-              www.ldtnet.com.br<br>
+              (84) 99453-3322<br>
+              ldtnettelecom@gmail.com<br>
               <strong>----------</strong>
             </div>
           </div>

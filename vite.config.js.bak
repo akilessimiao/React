@@ -1,0 +1,13 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  base: '/React/',  // mantenha isso pro GitHub Pages funcionar
+  // NÃO coloque nada de input aqui por enquanto
+  // build: {
+  //   rollupOptions: {
+  //     input: ...  ← comente ou remova isso
+  //   }
+  // }
+})

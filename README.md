@@ -48,6 +48,12 @@ Este repositório contém uma coleção de projetos e exemplos desenvolvidos com
 - ✅ Código limpo e bem estruturado
 - ✅ Deploy automático com GitHub Pages
 
+## 🎯 Objetivos
+- 📚 Aprender e praticar React.js
+- 💡 Criar componentes reutilizáveis
+- 🎨 Desenvolver interfaces modernas
+- 🔧 Aplicar melhores práticas de desenvolvimento
+- 🚀 Deploy com GitHub Pages
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -75,3 +81,44 @@ Este repositório contém uma coleção de projetos e exemplos desenvolvidos com
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/akiessimiao/React.git
+
+2. **Navegue até o diretório:**
+```bash
+cd React
+
+3. **Instale as dependências:**
+```bash
+npm install
+
+4. **Inicie o servidor de desenvolvimento:**
+```bash
+npm start
+
+5. **Abra no navegador:**
+```bash
+http://localhost:3000
+
+📁 Estrutura do Projeto
+
+React/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── manifest.json
+├── src/
+│   ├── components/
+│   │   ├── Header/
+│   │   ├── Footer/
+│   │   └── ...
+│   ├── pages/
+│   │   ├── Home/
+│   │   ├── About/
+│   │   └── ...
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE

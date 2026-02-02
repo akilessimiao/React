@@ -1,100 +1,77 @@
-1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677
 # 🚀 React Projects
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields
-Navegue até o diretório:
-bash
-1
-cd React
-Instale as dependências:
-bash
-1
-npm install
-Inicie o servidor de desenvolvimento:
-bash
-1
-npm start
-Abra no navegador:
-1
-📁 Estrutura do Projeto
-12345678910111213141516171819202122
-React/
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── manifest.json
-├── src/
-│   ├── components/
-│   │   ├── Header/
-│   │   ├── Footer/
-│   │   └── ...
+![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-🚀 Deploy
-Este projeto está configurado para deploy automático no GitHub Pages.
-Scripts Disponíveis
-bash
-1234567891011
-# Iniciar servidor de desenvolvimento
-npm start
-
-# Criar build de produção
-npm run build
-
-# Executar testes
-npm test
-
-# Deploy para GitHub Pages
-
-📸 Screenshots
-(Adicione screenshots do seu projeto aqui)
-🎯 Objetivos
-📚 Aprender e praticar React.js
-💡 Criar componentes reutilizáveis
-🎨 Desenvolver interfaces modernas
-🔧 Aplicar melhores práticas de desenvolvimento
-🚀 Deploy com GitHub Pages
-🤝 Contribuições
-Contribuições são bem-vindas! Siga os passos:
-Faça um fork do projeto
-Crie uma branch para sua feature (git checkout -b feature/nova-feature)
-Commit suas mudanças (git commit -m 'Adiciona nova feature')
-Push para a branch (git push origin feature/nova-feature)
-Abra um Pull Request
-👨‍💻 Autor
 <div align="center">
-
-Akiles Leopoldo Nunes Simiao
-
-
-
-
-
+  <h3>✨ Coleção de Projetos React ✨</h3>
+  <p>Aplicações modernas desenvolvidas com React.js</p>
+  <br>
+  <a href="https://akilessimiao.github.io/react/">
+    <strong>🔗 Acesse o Site »</strong>
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/akiessimiao/React/stargazers">
+    <img src="https://img.shields.io/github/stars/akiessimiao/React?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/akiessimiao/React/forks">
+    <img src="https://img.shields.io/github/forks/akiessimiao/React?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/akiessimiao/React/issues">
+    <img src="https://img.shields.io/github/issues/akiessimiao/React" alt="Issues">
+  </a>
+  <a href="https://github.com/akiessimiao/React/commits/main">
+    <img src="https://img.shields.io/github/last-commit/akiessimiao/React" alt="Last Commit">
+  </a>
 </div>
 
-📄 Licença
-Este projeto está sob a licença MIT.
-123456789101112131415161718192021
-MIT License
+---
 
-Copyright (c) 2026 Akiles Leopoldo Nunes Simiao
+## 📋 Sobre o Projeto
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositório contém uma coleção de projetos e exemplos desenvolvidos com **React.js**, demonstrando boas práticas de desenvolvimento front-end moderno, componentes reutilizáveis e aplicações funcionais.
 
-🙏 Agradecimentos
-React Team pela biblioteca incrível
-Comunidade de desenvolvedores
-Todos que contribuíram para este projeto
-<div align="center">
-<p>Feito com ❤️ por Akiles Simiao</p>
-<p><strong>🚀 Happy Coding!</strong></p>
-</div>
-```
+**🌐 Visualize ao vivo:** [https://akilessimiao.github.io/react/](https://akilessimiao.github.io/react/)
+
+---
+
+## ✨ Funcionalidades
+
+- ✅ Componentes funcionais com Hooks
+- ✅ Estado gerenciado com `useState` e `useEffect`
+- ✅ Roteamento com React Router
+- ✅ Design responsivo e adaptável
+- ✅ Código limpo e bem estruturado
+- ✅ Deploy automático com GitHub Pages
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Descrição |
+|------------|-----------|
+| **React** | Biblioteca JavaScript para interfaces |
+| **React Router** | Navegação entre páginas |
+| **JavaScript ES6+** | Sintaxe moderna |
+| **CSS3** | Estilização |
+| **HTML5** | Estrutura |
+| **GitHub Pages** | Hospedagem |
+
+---
+
+## 📦 Como Rodar Localmente
+
+### Pré-requisitos
+
+- Node.js (v14 ou superior)
+- npm ou yarn
+
+### Instalação
+
+1. **Clone o repositório:**
+```bash
+git clone https://github.com/akiessimiao/React.git
